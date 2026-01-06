@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Verma</h1>
 <h3 align="center">
-B.Tech CSE @ NIT Allahabad | Full-Stack Developer | Web3 & System Design Enthusiast
+B.Tech CSE @ NIT Allahabad | Full-Stack Developer | Web3 &  Enthusiast
 </h3>
 
 <p align="center">
